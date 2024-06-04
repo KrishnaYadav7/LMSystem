@@ -45,7 +45,7 @@ Before running this project locally, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sukomal07/learning-management-system.git
+   
    cd learning-management-system
    ```
 
